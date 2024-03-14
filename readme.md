@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
  <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="www.linkedin.com/in/abdelmajid-zaddi-694b2b290?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
  <!-- <a href="https://dev.to/alsiam" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
@@ -67,8 +67,8 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+ 📧 &emsp; Reach me anytime: abdelmajidzaddi088@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/LHW001abc/LHW001abc/issues)
 
 </p>
 
